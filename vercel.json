@@ -1,7 +1,4 @@
 {
-  "buildCommand": "",
-  "outputDirectory": ".",
+  "buildCommand": null,
   "framework": null
 }
-
-// oi
